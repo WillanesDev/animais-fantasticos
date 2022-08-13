@@ -39,6 +39,11 @@ body{
   font-size: 0.875rem;
   letter-spacing: .1rem;
 }
+.menu li a:hover{
+  transition: .3s;
+  background-color: rgb(255, 203, 125);
+  border-radius: 2px;
+}
 .grid-section{
   grid-column: 2 / 4;
   width: 100%;
